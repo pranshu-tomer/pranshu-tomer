@@ -74,7 +74,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pranshu-tomer/pranshu-tomer/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pranshu-tomer/output/snake.svg" alt="Snake animation" />
 
 ###
 
