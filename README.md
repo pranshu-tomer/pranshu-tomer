@@ -32,6 +32,12 @@
   <a href="https://discord.gg/tf4f9FC3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  <a href="https://www.leetcode.com/shadow_voltrex" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="shadow_voltrex"  />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shadow_voltrex" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="52" height="40" alt="shadow_voltrex"  />
+  </a>
 </div>
 
 ###
